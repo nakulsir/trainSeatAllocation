@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trainSeatAllocation/static/css/main.25d4d161.css",
+    "main.js": "/trainSeatAllocation/static/js/main.12c91085.js",
+    "static/js/787.dfc6333c.chunk.js": "/trainSeatAllocation/static/js/787.dfc6333c.chunk.js",
+    "index.html": "/trainSeatAllocation/index.html",
+    "main.25d4d161.css.map": "/trainSeatAllocation/static/css/main.25d4d161.css.map",
+    "main.12c91085.js.map": "/trainSeatAllocation/static/js/main.12c91085.js.map",
+    "787.dfc6333c.chunk.js.map": "/trainSeatAllocation/static/js/787.dfc6333c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d4d161.css",
+    "static/js/main.12c91085.js"
+  ]
+}
