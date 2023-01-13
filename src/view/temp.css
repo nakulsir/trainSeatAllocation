@@ -1,0 +1,28 @@
+.container {
+    width: 450px;
+    margin: auto;
+  }
+  
+  .grid td {
+    width: 5px;
+    height: 5px;
+    padding: 20px 20px;
+    border: 2px solid green;
+    text-align: center;
+    float: left;
+    margin: 5px;
+  }
+  
+  .reserved {
+    background: green;
+    color: #fff;
+    display: inline-block;
+  }
+  
+  .available {
+    color: #333;
+  }
+  
+  li {
+    list-style: none;
+  }
